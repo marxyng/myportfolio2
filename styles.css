@@ -1,0 +1,76 @@
+
+
+body{
+    background: #76b852;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #8DC26F, #76b852);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #8DC26F, #76b852); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+font-family: 'Mansalva', cursive;
+}
+
+.firstOne{
+    text-align: center;
+}
+
+.aboutMeH1{
+    text-align: center;
+}
+
+p{
+    font-size: 22px;
+    text-align: center;
+}
+
+.firstPic{
+    
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+}
+
+.linkUp{
+    text-align:center;
+    font-size: 48px;
+}
+
+ul{
+    text-align: center;
+}
+
+.contactMe01{
+    text-align: center;
+    font-size: 48px;
+}
+
+.linkUp004{
+    font-size: 30px;
+
+}
+
+.myPic002{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    height:"auto";
+
+}
+
+.contactMeEmail{
+    text-align:center;
+}
+
+.homePage01{
+    text-align: center;
+    margin-left: 200px;
+    margin-right:200px;
+
+
+
+}
+.contactMePic225{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
